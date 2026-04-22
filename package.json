@@ -1,0 +1,46 @@
+{
+  "name": "portfolio-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.5",
+    "@radix-ui/react-hover-card": "^1.1.1",
+    "@tawk.to/tawk-messenger-react": "^2.0.2",
+    "axios": "^1.7.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.0.3",
+    "gsap": "^3.12.5",
+    "next": "14.0.3",
+    "next-themes": "^0.3.0",
+    "qss": "^3.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-github-calendar": "^4.1.6",
+    "react-icons": "^4.12.0",
+    "react-loading-skeleton": "^3.4.0",
+    "react-simple-image-viewer": "^1.2.2",
+    "react-type-animation": "^3.2.0",
+    "swr": "^2.2.5",
+    "tailwind-merge": "^2.1.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.7",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
